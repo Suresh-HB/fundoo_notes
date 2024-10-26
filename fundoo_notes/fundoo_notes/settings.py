@@ -116,10 +116,10 @@ WSGI_APPLICATION = 'fundoo_notes.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': "user",
-        'USER': "postgres",
-        'PASSWORD': "7387837430",
-        'HOST': "3.110.41.81", 
+        'NAME': "laptop",
+        'USER': "surya",
+        'PASSWORD': "surys",
+        'HOST': "44.223.32.62", 
         'PORT': '5432',
     }
 }
